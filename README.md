@@ -17,8 +17,7 @@ OpenSky Network REST API.
    - Python 3.8 or newer installed (`python --version`)
 
 2. (Optional) Create and activate a virtual environment  
-   ```bash
-
+ 
 4. Install Python dependencies  
 requests>=2.28.1
 folium>=0.14.0
