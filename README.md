@@ -1,17 +1,17 @@
-# ✈️ Real-Time Flight Tracker
+# Real-Time Flight Tracker
 
-## 🚀 Overview
+## Overview
 Python-powered, Folium-based interactive map that visualizes live global air traffic in real time
 
-## ✨ Key Features
+## Key Features
 - **Live Tracking**: Displays up-to-date global air traffic.
 - **Interactive Mapping**: Built on Folium for rich geographic visualization.
 - **Data Visualization**: Clear, immediate insight into active flight trajectories.
 
-## 🛠️ Built With
+## Built With
 - **Tech Stack:** Python, Folium
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 Ensure your local environment is configured securely (e.g. Python 3.8+ or necessary GIS software context).
@@ -27,7 +27,7 @@ Ensure your local environment is configured securely (e.g. Python 3.8+ or necess
    ```
 3. Set up your environment and dependencies as needed.
 
-## 📄 License
+## License
 This project is licensed under the MIT License - see below for details.
 
 ```text
